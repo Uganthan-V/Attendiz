@@ -1,0 +1,4 @@
+"C:\Program Files\MongoDB\Server\8.0\bin\mongod.exe" --dbpath "C:\data\db"
+npm run dev
+face_env\Scripts\activate
+uvicorn main:app --reload --port 8000

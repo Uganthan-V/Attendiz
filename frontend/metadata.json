@@ -1,0 +1,7 @@
+{
+  "name": "Student Attendance Admin Dashboard",
+  "description": "A comprehensive admin dashboard for managing student attendance using simulated real-time face recognition. Features include a live camera feed, attendance logging, and data visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

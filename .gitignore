@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+face_env/
+fetch.py
+
+# React
+node_modules/
+build/
+dist/
+*.log
